@@ -1,1 +1,1 @@
-# rsschool-cv
+https://makedonecAlex.github.io/rsschool-cv/cv
