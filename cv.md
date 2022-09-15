@@ -2,6 +2,8 @@
 
 
 ======
+
+
 ### Contact information:
 
  - **Phone**: +375292135385
@@ -15,7 +17,7 @@
 I don't like to sit still. At work, I always work with enthusiasm. I love to create. I easily find a common language with colleagues. Altruist.
 
 
-====
+=====
 ### Skills and Proficiency:
  - HTML5 
  - CSS3
